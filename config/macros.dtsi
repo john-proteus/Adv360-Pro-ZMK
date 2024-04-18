@@ -1,3 +1,21 @@
+macro_execute: macro_execute{
+compatible = "zmk,behavior-macro";
+label = "macro_execute";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LALT>, <&kp Q>;
+};
+macro_print: macro_print{
+compatible = "zmk,behavior-macro";
+label = "macro_print";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LALT>, <&kp P>;
+};
+macro_downloads: macro_downloads{
+compatible = "zmk,behavior-macro";
+label = "macro_downloads";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LALT>, <&kp D>;
+};
 macro_c_play_pause: macro_c_play_pause{
 compatible = "zmk,behavior-macro";
 label = "macro_c_play_pause";

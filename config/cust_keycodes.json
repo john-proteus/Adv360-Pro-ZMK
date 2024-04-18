@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LCTRL LALT D"
+		],
+		"description": "LCTRL LALT D",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
