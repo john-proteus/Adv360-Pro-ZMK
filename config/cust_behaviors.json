@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "&kp LCTRL LALT D",
+		"name": "&kp LCTRL LALT D",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]

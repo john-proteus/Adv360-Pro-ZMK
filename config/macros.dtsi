@@ -14,13 +14,7 @@ macro_downloads: macro_downloads{
 compatible = "zmk,behavior-macro";
 label = "macro_downloads";
 #binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp LALT>, <&kp D>;
-};
-macro_c_play_pause: macro_c_play_pause{
-compatible = "zmk,behavior-macro";
-label = "macro_c_play_pause";
-#binding-cells = <0>;
-bindings = <&kp C_PLAY_PAUSE>;
+bindings = <&kp LCTRL LALT D>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
