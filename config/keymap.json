@@ -24,7 +24,7 @@
     ], [
        "&kp F1",        "&kp F2",          "&kp F3",        "&kp F4",        "&kp F5",        "&kp F6",           "&tog 1",                                                              "&mo 3",        "&kp F7",        "&kp F8",        "&kp F9",       "&kp F10",       "&kp F11", "&kp F12",
        "&trans", "&kp LC(LA(Q))",   "&kp LC(LA(W))", "&kp LC(LA(E))", "&kp LC(LA(R))", "&kp LC(LA(T))",            "&none",                                                              "&none", "&kp LC(LA(Y))", "&kp LC(LA(U))", "&kp LC(LA(I))", "&kp LC(LA(O))", "&kp LC(LA(P))",  "&trans",
-       "&trans", "&kp LC(LA(A))",   "&kp LC(LA(S))", "&kp LC(LA(D))", "&kp LC(LA(F))", "&kp LC(LA(G))",            "&none", "&trans", "&trans",                     "&trans", "&trans",  "&none", "&kp LC(LA(H))", "&kp LC(LA(J))", "&kp LC(LA(K))", "&kp LC(LA(L))",        "&trans",  "&trans",
+       "&trans", "&kp LC(LA(A))",   "&kp LC(LA(S))", "&kp LC(LA(D))", "&kp LC(LA(F))", "&kp LC(LA(G))",           "&trans", "&trans", "&trans",                     "&trans", "&trans",  "&none", "&kp LC(LA(H))", "&kp LC(LA(J))", "&kp LC(LA(K))", "&kp LC(LA(L))",        "&trans",  "&trans",
        "&trans", "&kp LC(LA(Z))", "&kp PRINTSCREEN", "&kp LC(LA(C))", "&kp LC(LA(V))", "&kp LC(LA(B))",                               "&trans",                     "&trans",                     "&kp LC(LA(N))", "&kp LC(LA(M))",        "&trans",        "&trans",        "&trans",  "&trans",
        "&trans",        "&trans",          "&trans",        "&trans",        "&trans",                            "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                         "&trans",        "&trans",        "&trans",        "&trans",  "&trans"
     ], [
